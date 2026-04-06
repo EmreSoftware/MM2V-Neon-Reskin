@@ -1,2 +1,1 @@
-# MM2V-Neon-Reskin
-a chrome extension documentation
+# my chrome extensions legal docs nothing interesting here
